@@ -1,4 +1,4 @@
 #ctx{
-  width: Screen.width;
-  length: Screen.length;
+  width: '100%';
+  length: '100%';
 }
